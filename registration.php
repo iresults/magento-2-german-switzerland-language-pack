@@ -16,6 +16,6 @@
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::LANGUAGE,
-    'iresults_de_ch',
+    'mageplaza_de_ch',
     __DIR__
 );
