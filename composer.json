@@ -2,9 +2,7 @@
   "name": "iresults/magento-2-german-switzerland-language-pack",
   "description": "German Switzerland language package for Magento 2",
   "homepage": "https://www.mageplaza.com",
-  "require": {
-    "mageplaza/module-core": "^1.3.13"
-  },
+  "require": {},
   "type": "magento2-language",
   "prefer-stable": true,
   "license": [
