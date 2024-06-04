@@ -4,4 +4,5 @@
     <code>de_CH</code>
     <vendor>mageplaza</vendor>
     <package>de_ch</package>
+    <use vendor="iresults" package="de_de" />
 </language>
